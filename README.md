@@ -7,7 +7,7 @@ LAZY HAT is a trait within the Lazy Lions and Lazy Cubs NFT project. We as Lazy 
 * [lazyhatcubs.xyz](https://lazyhatcubs.xyz)
 * Discord (Opening Soon)
 * [Twitter](https://twitter.com/lazyhatcubs)
-* [Roadmap](lazy-hat-cub-house/roadmap.md)
+* [Roadmap](broken-reference)
 * [**Lazy Pool** Investment DAO](lazy-hat-cub-house/lazy-pool-investment-club-dao.md)
 * [Lazy Hat Cubs for sale](https://www.gem.xyz/collection/lazy-cubs-/?filters=\{%22Headgear%22:\[%22lazy+hat%22]})
 * [Lazy Lions NFT project](https://www.lazylionsnft.com/)
