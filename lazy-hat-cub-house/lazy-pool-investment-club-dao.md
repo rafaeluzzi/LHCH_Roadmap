@@ -1,6 +1,6 @@
 # 💸 Lazy Pool Investment Club/DAO
 
-### What, Why, and How Lazy Pool? <a href="#what-is-the-dead-pool" id="what-is-the-dead-pool"></a>
+### [What, Why, and How Lazy Pool?](#user-content-fn-1)[^1] <a href="#what-is-lazy-pool" id="what-is-lazy-pool"></a>
 
 Lazy Pool is a gated investment Club/DAO limited to 100 members of the [Lazy Hat Cub House](../) to be in compliance with [SEC investment clubs](https://www.sec.gov/reportspubs/investor-publications/investorpubsinvclubhtm.html) requirements. We are starting this as a way to pool our funds, so we can collectively invest to gain market share and exposure to bluechip assets like for example Moonbirds, Azuki, Otherside, and/or other valuable assets and of course more assets in the Lazy Lions ecosystem. This will allow affordable exposure to those projects and for us to maximize gains by participating in future airdrops and the benefits that those projects provide. The lazy pool will also help increase the value of Lazy hat cubs through promotion and contribution. By using [Prysm](https://nftsquads.gitbook.io/resource-center/faqs/general-faqs) to power our investment club it will facilitate Venture Capital-like funding rounds, voting infrastructure, ownership tracking, and members management.&#x20;
 
@@ -36,13 +36,9 @@ Current signers are:
 
 rafaeluzzi 0x810C51c77194ca4E1FBA1A2e248fdc77A81BE6CE
 
-acasanova.eth 0x298bfAF6c46243F020B2F84f581b476eEDAfF44c
-
-lazyfrank.eth 0x8888650133c3B49A1Bd8cB98b0E2b3604460F63b
-
 0xNinjuh 0x6F3eC5a4c5DCC2c2969D578B0890AFE1cC3bD542
 
-Signer 5 (TBA)
+Signer 3,4,5 (TBA)
 
 ## Lazy Pool investment horizon and risks?
 
@@ -53,3 +49,5 @@ It's important to know that like any NFT investment there are risks. Lazy Hat Cu
 ### &#x20;<a href="#undefined" id="undefined"></a>
 
 ### &#x20;<a href="#undefined-1" id="undefined-1"></a>
+
+[^1]: 
