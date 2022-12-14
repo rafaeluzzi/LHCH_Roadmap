@@ -5,7 +5,7 @@ LAZY HAT is a trait within the Lazy Lions and Lazy Cubs NFT project. We as Lazy 
 ## LHCH Links
 
 * [lazyhatcubs.xyz](https://lazyhatcubs.xyz)
-* Discord (Opening Soon)
+* ~~Discord (Opening Soon)~~ - Update: Lazy Hat Cubs can now join the OG Lazy Hat Discord and are now part of the LHDP. Join here [https://discord.gg/s6RyNxS8](https://discord.gg/s6RyNxS8)
 * [Twitter](https://twitter.com/lazyhatcubs)
 * [Roadmap](broken-reference)
 * [**Lazy Pool** Investment DAO](lazy-hat-cub-house/lazy-pool-investment-club-dao.md)
